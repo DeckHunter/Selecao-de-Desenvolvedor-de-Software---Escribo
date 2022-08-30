@@ -22,8 +22,8 @@ dos números 3, 5, 6, 9 e 10 que são menores que 11.
 ### =========| Codigo em execução |=========
 - Digite um valor positivo :
 - 10
-- Valores divisivies por 5 : [5]
-- Valores divisivies por 3 : [3, 6, 9]
+- Valores divisiveis por 5 : [5]
+- Valores divisiveis por 3 : [3, 6, 9]
 - Valor Final : 23
 ### =================================
 
